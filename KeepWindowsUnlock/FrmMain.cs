@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
 
-namespace MouseControl
+namespace KeepWindowsUnlock
 {
     public partial class FormMain : Form
     {

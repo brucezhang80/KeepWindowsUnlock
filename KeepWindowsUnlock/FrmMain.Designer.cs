@@ -1,4 +1,4 @@
-﻿namespace MouseControl
+﻿namespace KeepWindowsUnlock
 {
     partial class FormMain
     {
